@@ -34,5 +34,6 @@
 		<input type="password" name="user_password" placeholder="insert your password"> <br>
 		<input type="submit" name="registrate" value="registrate">
 	</form>
+	<hr>
 </body>
 </html>
